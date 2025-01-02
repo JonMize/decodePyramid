@@ -1,0 +1,1 @@
+Given test.txt, an unorganized list of numbers and corresponding words, use an OOP language (preferably Python) to decode it into a string of words. The encryption: Sort the array numerically, into a Floyd's triangle, and print the last word on every row (rightmost value).
